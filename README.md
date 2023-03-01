@@ -2,15 +2,19 @@
 
 👉🏾 Questionamentos:
 - Existem outras entidades além dessas três?
-Sim, foram acrescentadas mais 3 entidades, sendo elas:
+
+Sim, mais duas entidades, facilitadores e as matrículas
 
 
 
 👉🏾 Quais principais tipos e campos?
-Os principais campos são o ID de cada entidade, ou seja, as chaves primárias. Esse campos, em sua totalidade, são INT, pois precisam ser incrementados, como por exemplo a quantidade.
+
+- Os principais campos são o ID de cada entidade que são as chaves primárias. 
+
 
 👉🏾 Como essas entidades estão relacionadas?
-De Acordo com a Ligação de uma com a outra.
+
+- De Acordo com ligações entre elas
 
 
-♦️ Projeto realizado no:  ♦️
+♦ Tecnologia usada: BR modelo ♦
